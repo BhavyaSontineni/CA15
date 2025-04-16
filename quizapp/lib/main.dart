@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'screens/quiz_screen.dart';
-
+//Madhuri Tumula - 002892521
+//Sontineni Bhavya Sri Sai- 002893685
 void main() {
   runApp(MyApp());
 }
